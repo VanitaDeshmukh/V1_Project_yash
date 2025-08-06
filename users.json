@@ -1,0 +1,58 @@
+[
+    {
+        "username": "khushi_caregiver",
+        "password": "Khushi@123",
+        "role": "Caregiver",
+        "location": "Indore",
+        "contact": "8976543789",
+        "skills": "Bathing, Cleaning, Feeding, Hair Cutting, Medication Reminders, Toilet Cleaning, Dressing Support",
+        "name": "Khushi caregiver"
+    },
+    {
+        "username": "mahi_caregiver",
+        "password": "Mahi@123",
+        "role": "Caregiver",
+        "location": "Hyderabad",
+        "contact": "6754908765",
+        "skills": "Bathing, Hair Cutting, Toilet Cleaning, Cleaning, Feeding, Medication Reminders, Dressing Support",
+        "name": "mahi caregiver"
+    },
+    {
+        "username": "shalini_caregiver",
+        "password": "Shalini@123",
+        "role": "Caregiver",
+        "location": "Hyderabad",
+        "contact": "6754908765",
+        "skills": "Dressing Support, Medication Reminders, Hair Cutting, Toilet Cleaning, Cleaning, Feeding, Bathing",
+        "name": "shalini caregiver"
+    },
+    {
+        "username": "sumith_caretaker",
+        "password": "Sumith@123",
+        "contact": "8743567987",
+        "role": "Caretaker",
+        "location": "Indore",
+        "skills": "",
+        "name": "sumith caretaker",
+        "age": 87
+    },
+    {
+        "username": "sandhya_caregiver",
+        "password": "Sandhya@123",
+        "role": "Caregiver",
+        "location": "Indore",
+        "contact": "7865435687",
+        "skills": "Bathing, Cleaning, Feeding, Toilet Cleaning, Hair Cutting, Dressing Support",
+        "name": "sandhya caregiver"
+    },
+    {
+        "username": "seema_caretaker",
+        "password": "Seema@123",
+        "contact": "7865435687",
+        "role": "Caretaker",
+        "location": "Indore",
+        "skills": "",
+        "name": "Seema caretaker",
+        "age": 87
+    }
+]

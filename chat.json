@@ -1,0 +1,50 @@
+[
+  {
+    "from": "sumith_caretaker",
+    "to": "mahi_caregiver",
+    "message": "hello mahi",
+    "timestamp": "2025-07-30T14:29:58.422894"
+  },
+  {
+    "from": "mahi_caregiver",
+    "to": "sumith_caretaker",
+    "message": "hi sumith",
+    "timestamp": "2025-07-30T14:37:18.562738"
+  },
+  {
+    "from": "seema_caretaker",
+    "to": "sandhya_caregiver",
+    "message": "hi sandhya",
+    "timestamp": "2025-07-30T14:53:47.020569"
+  },
+  {
+    "from": "sandhya_caregiver",
+    "to": "seema_caretaker",
+    "message": "hello seema",
+    "timestamp": "2025-07-30T14:56:17.623376"
+  },
+  {
+    "from": "seema_caretaker",
+    "to": "mahi_caregiver",
+    "message": "Hello task completed?",
+    "timestamp": "2025-07-30T17:33:02.671102"
+  },
+  {
+    "from": "mahi_caregiver",
+    "to": "seema_caretaker",
+    "message": "Yes",
+    "timestamp": "2025-07-30T17:34:35.240116"
+  },
+  {
+    "from": "sumith_caretaker",
+    "to": "mahi_caregiver",
+    "message": "hello",
+    "timestamp": "2025-07-30T18:08:46.006698"
+  },
+  {
+    "from": "ashish_caretaker",
+    "to": "ashu_indore",
+    "message": "hi",
+    "timestamp": "2025-07-31T14:58:53.691872"
+  }
+]

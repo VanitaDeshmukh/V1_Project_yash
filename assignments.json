@@ -1,0 +1,23 @@
+[
+  {
+    "Caretaker": "divya800",
+    "caregiver": "kavyagupta",
+    "duration": "15 Days",
+    "status": "Active"
+  },
+  {
+    "Caretaker": "caretaker1",
+    "caregiver": "caregivar1",
+    "duration": "1 Month",
+    "status": "Active"
+  },
+  {
+    "caretaker": "ashish_caretaker",
+    "caregiver": "ashu_indore",
+    "contact": "7689643678",
+    "duration": "1 Month",
+    "status": "Active",
+    "joining_date": "2025-07-31",
+    "ending_date": "2025-08-30"
+  }
+]

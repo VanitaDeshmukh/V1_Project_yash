@@ -1,0 +1,124 @@
+[
+  {
+    "caretaker": "seemak",
+    "caregiver": "caregiver1",
+    "caregiver_name": "Caregiver_1",
+    "skills": [
+      "Hair Cutting"
+    ],
+    "start_date": "2025-07-29",
+    "end_date": "2025-07-30",
+    "total_days": 1,
+    "daily_fee": 120,
+    "total_fee": 120,
+    "timestamp": "2025-07-29T15:08:52.599415"
+  },
+  {
+    "caretaker": "seemak",
+    "caregiver": "caregiver1",
+    "caregiver_name": "Caregiver_1",
+    "skills": [],
+    "start_date": "2025-07-29",
+    "end_date": "2025-07-30",
+    "total_days": 1,
+    "daily_fee": 0,
+    "total_fee": 0,
+    "timestamp": "2025-07-29T15:10:05.024782"
+  },
+  {
+    "caretaker": "sahilcaretaker",
+    "caregiver": "sapnag",
+    "caregiver_name": "Sapna g",
+    "skills": [
+      "Dressing Support",
+      "Medication Reminders",
+      "Feeding"
+    ],
+    "start_date": "2025-07-30",
+    "end_date": "2025-08-19",
+    "total_days": 20,
+    "daily_fee": 260,
+    "total_fee": 5200,
+    "timestamp": "2025-07-30T12:02:09.875495"
+  },
+  {
+    "caretaker": "sumith_caretaker",
+    "caregiver": "sapnag",
+    "caregiver_name": "Sapna g",
+    "skills": [
+      "Feeding",
+      "Cleaning",
+      "Bathing"
+    ],
+    "start_date": "2025-07-30",
+    "end_date": "2025-08-28",
+    "total_days": 29,
+    "daily_fee": 270,
+    "total_fee": 7830,
+    "timestamp": "2025-07-30T14:12:10.480560"
+  },
+  {
+    "caretaker": "sumith_caretaker",
+    "caregiver": "mahi_caregiver",
+    "caregiver_name": "mahi caregiver",
+    "skills": [
+      "Bathing",
+      "Cleaning",
+      "Dressing Support"
+    ],
+    "start_date": "2025-07-30",
+    "end_date": "2025-08-20",
+    "total_days": 21,
+    "daily_fee": 275,
+    "total_fee": 5775,
+    "timestamp": "2025-07-30T14:30:53.359429"
+  },
+  {
+    "caretaker": "seema_caretaker",
+    "caregiver": "sandhya_caregiver",
+    "caregiver_name": "sandhya caregiver",
+    "skills": [
+      "Bathing",
+      "Cleaning",
+      "Feeding"
+    ],
+    "start_date": "2025-07-30",
+    "end_date": "2025-08-13",
+    "total_days": 14,
+    "daily_fee": 270,
+    "total_fee": 3780,
+    "timestamp": "2025-07-30T14:54:25.608942"
+  },
+  {
+    "caretaker": "sumith_caretaker",
+    "caregiver": "mahi_caregiver",
+    "caregiver_name": "mahi caregiver",
+    "skills": [
+      "Cleaning",
+      "Bathing",
+      "Feeding"
+    ],
+    "start_date": "2025-07-30",
+    "end_date": "2025-07-31",
+    "total_days": 1,
+    "daily_fee": 270,
+    "total_fee": 270,
+    "timestamp": "2025-07-30T18:09:25.305729"
+  },
+  {
+    "caretaker": "ashish_caretaker",
+    "caregiver": "ashu_indore",
+    "caregiver_name": "Ashu indore",
+    "skills": [
+      "Toilet Cleaning",
+      "Cleaning",
+      "Feeding"
+    ],
+    "start_date": "2025-07-31",
+    "end_date": "2025-09-01",
+    "total_days": 32,
+    "daily_fee": 280,
+    "total_fee": 8960,
+    "timestamp": "2025-07-31T15:01:29.720293"
+  }
+]
